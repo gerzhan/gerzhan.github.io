@@ -3,12 +3,61 @@
     <title>Gerzhan Nikolay</title>
     <link href="https://gerzhan.github.io/feed.xml" rel="self" />
     <link href="https://gerzhan.github.io" />
-    <updated>2022-05-31T22:16:16+07:00</updated>
+    <updated>2022-06-01T14:00:00+07:00</updated>
     <author>
         <name>Nikolay Gerzhan</name>
     </author>
     <id>https://gerzhan.github.io</id>
 
+    <entry>
+        <title>RuStore - раз, два и регистрация готова?</title>
+        <author>
+            <name>Nikolay Gerzhan</name>
+        </author>
+        <link href="https://gerzhan.github.io/rustore-raz-dva-i-registraciya-gotova.html"/>
+        <id>https://gerzhan.github.io/rustore-raz-dva-i-registraciya-gotova.html</id>
+
+        <updated>2022-06-01T14:00:00+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gerzhan.github.io/media/posts/3/rustore_20220601_title.png" alt="RuStore" />
+                    Регистрация разработчиком на RuStore.ru Сегодня сделал первый шаг по пути регистрации в качестве разработчика на RuStore. Острой необходимости или жгучего желания стать разработчиком на RuStore небыло и нет. Элементарное любопытство и “спортивный интерес”. Да. Первым делом мне пришлось идти в магазин и покупать токен для&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gerzhan.github.io/media/posts/3/rustore_20220601_title.png" alt="RuStore" />
+                <h1 id="регистрация-разработчиком-на-rustoreru">Регистрация разработчиком на RuStore.ru</h1>
+<p>Сегодня сделал первый шаг по пути регистрации в качестве разработчика на <strong>RuStore</strong>. </p>
+<h2 id="цель">Цель</h2>
+<ul>
+<li>регистрация ради регистрации</li>
+</ul>
+<p>Острой необходимости или жгучего желания стать разработчиком на RuStore  небыло и нет. Элементарное любопытство и “спортивный интерес”.</p>
+<h2 id="делай-раз---иди-в-магаз">Делай раз - иди в “магаз”</h2>
+<p>Да. Первым делом мне пришлось идти в магазин и покупать токен для получения Квалифицированной Элестронной Подписи(КЭП). Выбор был “велик”, но покупать пришлось то, что было в наличии. </p>
+<blockquote>
+<p><code>Рутокен ЭЦП 2.0</code> -  2 320 р</p>
+</blockquote>
+<p><figure class="post__image"><img loading="lazy" src="https://gerzhan.github.io/media/posts/3/rutoken_in_work_20220601.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-xs.jpg 300w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-sm.jpg 480w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-md.jpg 768w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-lg.jpg 1024w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-xl.jpg 1360w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-2xl.jpg 1600w"  alt="RuToken_2_0_за работой" width="1280" height="1280" /></figure></p>
+<h3 id="вчера-купил---сегодня-получил">Вчера купил - сегодня получил</h3>
+<p>Описывать хождения по сайтам налоговой, регистрации на прием для получения КЭП, а также установку программ для работы КЭП мне лень. </p>
+<h2 id="делай-два---регистрация-как-юридического-лица">Делай два - регистрация как юридического лица</h2>
+<p>Да. Вот тут и ответ на немой вопрос “А зачем была нужна КЭП?”</p>
+<blockquote>
+<p><code>зарегистрироваться в качестве разработчика</code> физическому лицу <code>невозможно</code></p>
+</blockquote>
+<p>Регистрируют только юридических лиц, а быть  вольным зарегистрированным разработчиком не получится. При подаче заявления, его необходимо подписать электронной подписью.</p>
+<h2 id="итого">Итого</h2>
+<ul>
+<li>заявление от юр.лица отпарвлено</li>
+<li>пароли и “явки” не  получены</li>
+<li>нахожусь в режиме ожидания заветного письма от <strong>RuStore</strong>   с позравлением об успешном завершении этого “квеста” </li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Блоги бывают разные, но каждый создается с какой-то целью.</title>
         <author>

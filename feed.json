@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://gerzhan.github.io/rustore-raz-dva-i-registraciya-gotova.html",
+            "url": "https://gerzhan.github.io/rustore-raz-dva-i-registraciya-gotova.html",
+            "title": "RuStore - раз, два и регистрация готова?",
+            "summary": "Регистрация разработчиком на RuStore.ru Сегодня сделал первый шаг по пути регистрации в качестве разработчика на RuStore. Острой необходимости или жгучего желания стать разработчиком на RuStore небыло и нет. Элементарное любопытство и “спортивный интерес”. Да. Первым делом мне пришлось идти в магазин и покупать токен для&hellip;",
+            "content_html": "<h1 id=\"регистрация-разработчиком-на-rustoreru\">Регистрация разработчиком на RuStore.ru</h1>\n<p>Сегодня сделал первый шаг по пути регистрации в качестве разработчика на <strong>RuStore</strong>. </p>\n<h2 id=\"цель\">Цель</h2>\n<ul>\n<li>регистрация ради регистрации</li>\n</ul>\n<p>Острой необходимости или жгучего желания стать разработчиком на RuStore  небыло и нет. Элементарное любопытство и “спортивный интерес”.</p>\n<h2 id=\"делай-раз---иди-в-магаз\">Делай раз - иди в “магаз”</h2>\n<p>Да. Первым делом мне пришлось идти в магазин и покупать токен для получения Квалифицированной Элестронной Подписи(КЭП). Выбор был “велик”, но покупать пришлось то, что было в наличии. </p>\n<blockquote>\n<p><code>Рутокен ЭЦП 2.0</code> -  2 320 р</p>\n</blockquote>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://gerzhan.github.io/media/posts/3/rutoken_in_work_20220601.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-xs.jpg 300w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-sm.jpg 480w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-md.jpg 768w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-lg.jpg 1024w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-xl.jpg 1360w ,https://gerzhan.github.io/media/posts/3/responsive/rutoken_in_work_20220601-2xl.jpg 1600w\"  alt=\"RuToken_2_0_за работой\" width=\"1280\" height=\"1280\" /></figure></p>\n<h3 id=\"вчера-купил---сегодня-получил\">Вчера купил - сегодня получил</h3>\n<p>Описывать хождения по сайтам налоговой, регистрации на прием для получения КЭП, а также установку программ для работы КЭП мне лень. </p>\n<h2 id=\"делай-два---регистрация-как-юридического-лица\">Делай два - регистрация как юридического лица</h2>\n<p>Да. Вот тут и ответ на немой вопрос “А зачем была нужна КЭП?”</p>\n<blockquote>\n<p><code>зарегистрироваться в качестве разработчика</code> физическому лицу <code>невозможно</code></p>\n</blockquote>\n<p>Регистрируют только юридических лиц, а быть  вольным зарегистрированным разработчиком не получится. При подаче заявления, его необходимо подписать электронной подписью.</p>\n<h2 id=\"итого\">Итого</h2>\n<ul>\n<li>заявление от юр.лица отпарвлено</li>\n<li>пароли и “явки” не  получены</li>\n<li>нахожусь в режиме ожидания заветного письма от <strong>RuStore</strong>   с позравлением об успешном завершении этого “квеста” </li>\n</ul>\n",
+            "image": "https://gerzhan.github.io/media/posts/3/rustore_20220601_title.png",
+            "author": {
+                "name": "Nikolay Gerzhan"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-01T14:00:00+07:00",
+            "date_modified": "2022-06-01T14:00:00+07:00"
+        },
+        {
             "id": "https://gerzhan.github.io/blogi-byvayut-raznye-no-kazhdyy-sozdaetsya-s-kakoy-to-celyu.html",
             "url": "https://gerzhan.github.io/blogi-byvayut-raznye-no-kazhdyy-sozdaetsya-s-kakoy-to-celyu.html",
             "title": "Блоги бывают разные, но каждый создается с какой-то целью.",
