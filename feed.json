@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://gerzhan.github.io/rustore-nachalo-raboty-kak-po-minnomu-polyu.html",
+            "url": "https://gerzhan.github.io/rustore-nachalo-raboty-kak-po-minnomu-polyu.html",
+            "title": "RuStore - &quot;Начало Работы&quot; как по минному полю?",
+            "summary": "Новый день и новый вопрос Через день после подачи заявки на регистрацию в RuStore я получил доступ к “личному кабинету”. Уточнить название компании и ректвизиты это дело полезное и крайне необходимое. Обычные “формачки” с полями - дело обычное, НО фраза “…вы не сможете поменять информацию&hellip;",
+            "content_html": "<h1 id=\"новый-день-и-новый-вопрос\">Новый день и новый вопрос</h1>\n<p>Через день после подачи заявки на регистрацию в <code>RuStore</code> я получил доступ к <a href=\"https://console.rustore.ru\">“личному кабинету”</a>.</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/rustore_add_company_20220602.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-xs.png 300w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-sm.png 480w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-md.png 768w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-lg.png 1024w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-xl.png 1360w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-2xl.png 1600w\"  alt=\"Image description\" width=\"726\" height=\"840\" /></figure></p>\n<p>Уточнить название компании и ректвизиты это дело полезное и крайне необходимое. Обычные “формачки” с полями - дело обычное, <strong>НО</strong> </p>\n<blockquote>\n<p>фраза <em>“…вы не сможете поменять информацию о компании…”</em>  заставила меня замереть и недышать. </p>\n</blockquote>\n<p>Да, да, да…. Заполнив 3 поля с “обычной информацией о компании” я засомневался. </p>\n<ul>\n<li>“А что если…захочу поменять домен для сайта?” </li>\n<li>“А что если… напишу имя компани как <code>СуперПуперПрогиКоли</code>?”   </li>\n<li>“А что если…?”</li>\n</ul>\n<p>Риск - дело  благородное, но … мне спешить особо было некуда и поэтому я просто отправил письмо с воспрос между строк “имею ли я право на ошибку?”.</p>\n<p>Пока ждал ответа, написал в блог эту “заметку”.</p>\n",
+            "image": "https://gerzhan.github.io/media/posts/4/rustore_form_start_20220602.png",
+            "author": {
+                "name": "Nikolay Gerzhan"
+            },
+            "tags": [
+                   "RuStore"
+            ],
+            "date_published": "2022-06-02T10:55:00+07:00",
+            "date_modified": "2022-06-02T11:26:53+07:00"
+        },
+        {
             "id": "https://gerzhan.github.io/rustore-raz-dva-i-registraciya-gotova.html",
             "url": "https://gerzhan.github.io/rustore-raz-dva-i-registraciya-gotova.html",
             "title": "RuStore - раз, два и регистрация готова?",

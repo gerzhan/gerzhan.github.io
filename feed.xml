@@ -3,12 +3,50 @@
     <title>Gerzhan Nikolay</title>
     <link href="https://gerzhan.github.io/feed.xml" rel="self" />
     <link href="https://gerzhan.github.io" />
-    <updated>2022-06-01T20:43:27+07:00</updated>
+    <updated>2022-06-02T11:26:53+07:00</updated>
     <author>
         <name>Nikolay Gerzhan</name>
     </author>
     <id>https://gerzhan.github.io</id>
 
+    <entry>
+        <title>RuStore - &quot;Начало Работы&quot; как по минному полю?</title>
+        <author>
+            <name>Nikolay Gerzhan</name>
+        </author>
+        <link href="https://gerzhan.github.io/rustore-nachalo-raboty-kak-po-minnomu-polyu.html"/>
+        <id>https://gerzhan.github.io/rustore-nachalo-raboty-kak-po-minnomu-polyu.html</id>
+            <category term="RuStore"/>
+
+        <updated>2022-06-02T11:26:53+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gerzhan.github.io/media/posts/4/rustore_form_start_20220602.png" alt="RuStore Start" />
+                    Новый день и новый вопрос Через день после подачи заявки на регистрацию в RuStore я получил доступ к “личному кабинету”. Уточнить название компании и ректвизиты это дело полезное и крайне необходимое. Обычные “формачки” с полями - дело обычное, НО фраза “…вы не сможете поменять информацию&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gerzhan.github.io/media/posts/4/rustore_form_start_20220602.png" alt="RuStore Start" />
+                <h1 id="новый-день-и-новый-вопрос">Новый день и новый вопрос</h1>
+<p>Через день после подачи заявки на регистрацию в <code>RuStore</code> я получил доступ к <a href="https://console.rustore.ru">“личному кабинету”</a>.</p>
+<p><figure class="post__image"><img loading="lazy" src="file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/rustore_add_company_20220602.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-xs.png 300w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-sm.png 480w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-md.png 768w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-lg.png 1024w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-xl.png 1360w ,file:///Users/gerzhan/Documents/Publii/sites/gerzhan-nikolay/input/media/posts/temp/responsive/rustore_add_company_20220602-2xl.png 1600w"  alt="Image description" width="726" height="840" /></figure></p>
+<p>Уточнить название компании и ректвизиты это дело полезное и крайне необходимое. Обычные “формачки” с полями - дело обычное, <strong>НО</strong> </p>
+<blockquote>
+<p>фраза <em>“…вы не сможете поменять информацию о компании…”</em>  заставила меня замереть и недышать. </p>
+</blockquote>
+<p>Да, да, да…. Заполнив 3 поля с “обычной информацией о компании” я засомневался. </p>
+<ul>
+<li>“А что если…захочу поменять домен для сайта?” </li>
+<li>“А что если… напишу имя компани как <code>СуперПуперПрогиКоли</code>?”   </li>
+<li>“А что если…?”</li>
+</ul>
+<p>Риск - дело  благородное, но … мне спешить особо было некуда и поэтому я просто отправил письмо с воспрос между строк “имею ли я право на ошибку?”.</p>
+<p>Пока ждал ответа, написал в блог эту “заметку”.</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RuStore - раз, два и регистрация готова?</title>
         <author>
