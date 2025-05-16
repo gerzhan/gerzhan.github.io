@@ -27,6 +27,10 @@
 <image:loc>https://gerzhan.github.io/media/posts/3/rustore_20220601_title.png</image:loc>
 <image:title><![CDATA[RuStore]]></image:title>
 </image:image>
+<image:image>
+<image:loc>https://gerzhan.github.io/media/posts/3/rutoken_in_work_20220601.jpg</image:loc>
+<image:title><![CDATA[RuToken_2_0_за работой]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://gerzhan.github.io/rustore-tyap-lyap-i-pora-publikovat.html</loc>
@@ -38,6 +42,18 @@
 <image:image>
 <image:loc>https://gerzhan.github.io/media/posts/5/rustore_account_gerzhan_20220603.png</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gerzhan.github.io/media/posts/5/Snimok-ekrana-2022-06-03-v-10.26.49.png</image:loc>
+<image:title><![CDATA[RuStore Account Gerzhan]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gerzhan.github.io/media/posts/5/rustore_add_app_20220603.png</image:loc>
+<image:title><![CDATA[RuStore Добавить приложение]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gerzhan.github.io/media/posts/5/rustore_apps_list_20220603.png</image:loc>
+<image:title><![CDATA[RuStore Список приложений]]></image:title>
 </image:image>
 </url>
 </urlset>
